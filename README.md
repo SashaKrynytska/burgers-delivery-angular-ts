@@ -1,3 +1,9 @@
+<img width="1160" alt="Screenshot 2023-09-27 at 13 09 43" src="https://github.com/SashaKrynytska/burgers-delivery-angular-ts/assets/106671584/30d50857-6cae-45a0-832c-bff7e1ae819b">
+
+<img width="1158" alt="Screenshot 2023-09-27 at 13 11 51" src="https://github.com/SashaKrynytska/burgers-delivery-angular-ts/assets/106671584/204d316a-c958-4c99-9d7e-402acc9db0c9">
+
+<img width="981" alt="Screenshot 2023-09-27 at 13 12 12" src="https://github.com/SashaKrynytska/burgers-delivery-angular-ts/assets/106671584/c863641a-50eb-4faf-98b4-86574c15e54a">
+
 # Burgers
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
