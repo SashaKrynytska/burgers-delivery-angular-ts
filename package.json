@@ -8,6 +8,10 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaKrynytska/burgers-delivery-angular-ts"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^16.2.0",
